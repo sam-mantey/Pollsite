@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    background: rgb(211, 207, 207);
+    padding: 40px 0px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    
+}
+
+li > a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+li > p {
+    padding-left: 20px;
+    font-size: 16px;
+}
